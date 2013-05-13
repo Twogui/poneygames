@@ -1,4 +1,4 @@
-poneygames
+Poneygames
 ==========
 
 Poney games project
